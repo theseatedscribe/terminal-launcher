@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tui_bg">#090D0B</color>
+    <color name="tui_output_text">#D4F5DF</color>
+    <color name="tui_input_text">#FFFFFF</color>
+    <color name="tui_prompt">#34D399</color>
+    <color name="tui_suggestion_bg">#121C17</color>
+    <color name="tui_suggestion_text">#6EE7B7</color>
+    <color name="tui_system">#60A5FA</color>
+    <color name="tui_error">#F87171</color>
+    <color name="tui_app">#FBBF24</color>
+</resources>

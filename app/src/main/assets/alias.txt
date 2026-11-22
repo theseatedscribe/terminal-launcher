@@ -1,0 +1,6 @@
+ff=firefox
+tx=termux
+msg=messages
+net=wifi
+cfg=settings
+ll=ls -a

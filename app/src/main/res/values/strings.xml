@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terminal-Launcher</string>
+    <string name="prompt_hint">Type a command or app name…</string>
+</resources>

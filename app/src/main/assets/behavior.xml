@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<behavior>
+    <username value="user" />
+    <deviceName value="android11" />
+    <promptFormat value="%u@%d:%p$" />
+    <fontSizeSp value="13" />
+    <showDeviceInfoHeader value="true" />
+    <showRamStatus value="true" />
+    <showSuggestions value="true" />
+    <showHiddenFiles value="false" />
+    <doubleTapToSleep value="true" />
+    <useNotificationListener value="true" />
+    <useScopedStorage value="true" />
+    <targetApi value="30" />
+</behavior>
